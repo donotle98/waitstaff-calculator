@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+}
+h2{
+    margin: 0;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.container{
+    width:680px;
+    margin: auto;
+}
+.meal-detail-container{
+    text-align: left;
+    border: solid;
+    float: left;
+    width: 300px;
+    height: 400px;
+    margin: 20px 0px 0px 10px;
+    padding: 10px;
+}
+.meal-detail-display{
+    margin: 50px 0 10px 0;
+}
+.control-center{
+    text-align: center;
+    margin-top: 50px;
+}
+.info-section{
+    border:solid;
+    float: right;
+    width: 300px;
+    height: 187px;
+    margin: 20px 5px 0 5px;
+    padding: 10px;
+}
+
+.earnings-info{
+    border: solid;
+    float: right;
+    clear: right;
+    width: 300px;
+    height: 187px;
+    margin: 5px;;
+    margin-top: 5px;
+    padding: 10px;
+    
+}
+
+.earnings-display{
+    display: flex;
+    padding: 10px;
+}
+label{
+    padding-right: 5px;
+}
